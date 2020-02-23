@@ -1,4 +1,4 @@
-# Clicky-Catsc
+# Clicky-Cats
 
 ### About
 
