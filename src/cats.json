@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Smokey",
+        "image": "../imgs/cat1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Stormy",
+        "image": "../imgs/cat2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Muffin",
+        "image": "../imgs/cat3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Winter",
+        "image": "../imgs/cat4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Penny",
+        "image": "../imgs/cat5.jpb"
+    },
+    {
+        "id": 6,
+        "name": "Franz",
+        "image": "../imgs/cat6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "JoJo",
+        "image": "../imgs/cat7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Jingles",
+        "image": "../imgs/cat8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Sydney",
+        "image": "../imgs/cat9.png"
+    },
+    {
+        "id": 10,
+        "name": "Toby",
+        "image": "../imgs/cat10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Earl Grey",
+        "image": "../imgs/cat11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Mocha",
+        "image": "../imgs/cat12.jpg"
+    }
+
+]
