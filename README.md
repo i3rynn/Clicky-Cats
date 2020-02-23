@@ -1,8 +1,8 @@
-# Clicky-Cats
+# Clicky-Catsc
 
 ### About
 
-* Clicky Cats is a memory game built with React.js. The goal of the game is easy, using your mouse, `CLICK` each of the twelve cat pictures in whatever order you like. But to win the game, you can’t click the same picture twice! 
+* Clicky Cats is a memory game built with React.js. The goal of the game is easy, using your mouse, click each of the twelve cat pictures in whatever order you like. But to win the game, you can’t click the same picture twice! 
 
 * Every time you click a picture, the cards reshuffle and are not where you remembered them being, making this a little trickier!
 
