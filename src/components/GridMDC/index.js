@@ -1,2 +1,1 @@
-  
-export { default } from "./GridMDC";
+  export { default } from "./GridMDC";
